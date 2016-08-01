@@ -1,5 +1,6 @@
 # hello-world
 Test repository
 
-My name is Seb
-New test
+My name is Sebastien.
+
+New test.
